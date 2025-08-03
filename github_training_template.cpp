@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 int main() {
-    printf("Github Training Template\n");
+    printf("This is the first changes in the clone\n");
     return 0;
 }
